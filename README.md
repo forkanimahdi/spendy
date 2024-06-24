@@ -1,51 +1,40 @@
-# Welcome to your Expo app 👋
+## Spendy App - README
+This file provides information about - SPENDY -  the Expense Tracker mobile app.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+# Features:
 
-## Get started
+Track your income and expenses with ease.
+Categorize your transactions for better budgeting.
+View clear reports and insights into your spending habits.
+Set goals and stay motivated on your financial journey.
 
-1. Install dependencies
 
-   ```bash
-   npm install
-   ```
+# Getting Started:
 
-2. Start the app
+Create an account or sign in if you already have one.
+Start adding your income and expenses.
+Explore the features to gain valuable insights into your finances.
 
-   ```bash
-    npx expo start
-   ```
+# Using the App:
 
-In the output, you'll find options to open the app in a
+The main screen displays a summary of your recent transactions and current balance.
+You can add new transactions by tapping the "+" button.
+Select the transaction type (income or expense), category, amount, and date.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+# Benefits:
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+Gain control over your finances.
+Make informed spending decisions.
+Reach your financial goals faster.
 
-## Get a fresh project
+# Technology Stack:
 
-When you're ready, run:
+React Native ( Expo ) - PHP (Back-end)
 
-```bash
-npm run reset-project
-```
+# License:
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+This application is licensed under a private, all rights reserved license. You may not use or distribute the source code for commercial purposes.
 
-## Learn more
+# Contact:
 
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-# test
+@forkanimahdi
